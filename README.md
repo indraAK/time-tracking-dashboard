@@ -20,5 +20,5 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [See Solution](https://www.frontendmentor.io/solutions/order-summary-card-component-html-and-css-5e2-yygul)
-- Live Site URL / Demo: [See Demo](https://stoic-sammet-05e508.netlify.app/)
+- Solution URL: [See Solution](https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-html-css-and-javascript-4HO9x9kv3)
+- Live Site URL / Demo: [See Demo](https://lucid-feynman-10c1c9.netlify.app/)
